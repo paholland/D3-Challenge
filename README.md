@@ -1,6 +1,7 @@
 ## Data Journalism and D3 Project
 
-    To analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings. To run a series of feature stories about the health risks facing particular demographics, sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
+    To analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand the findings. 
+    To run a series of feature stories about the health risks facing particular demographics, sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
 
 Data Points (The D3 plot has all of the following: no missing data points, each point is labeled with state abbreviation, each abbreviation fits inside of the data point, data points are in the correct location based on their data).
